@@ -1,0 +1,143 @@
+{
+  "pyodide_version": "0.27.7",
+  "python": "3.12.7",
+  "packages": {
+    "numpy": {
+      "depends": [],
+      "file_name": "numpy-2.0.2-cp312-cp312-pyodide_2024_0_wasm32.whl",
+      "imports": [
+        "numpy"
+      ],
+      "install_dir": "site",
+      "name": "numpy",
+      "package_type": "package",
+      "sha256": "ebb61241d962b98b21597d7ce43b67668a6d5bab3acec4fbe958657320d7cd08",
+      "unvendored_tests": true,
+      "version": "2.0.2"
+    },
+    "pydantic": {
+      "depends": [
+        "typing-extensions",
+        "pydantic_core",
+        "annotated-types"
+      ],
+      "file_name": "pydantic-2.10.5-py3-none-any.whl",
+      "imports": [
+        "pydantic"
+      ],
+      "install_dir": "site",
+      "name": "pydantic",
+      "package_type": "package",
+      "sha256": "dd344e353e3c3a2d972c1198744a4f4ba1e2ce586e903187cca9fdaafb46c63d",
+      "unvendored_tests": false,
+      "version": "2.10.5"
+    },
+    "typing-extensions": {
+      "depends": [],
+      "file_name": "typing_extensions-4.11.0-py3-none-any.whl",
+      "imports": [
+        "typing_extensions"
+      ],
+      "install_dir": "site",
+      "name": "typing-extensions",
+      "package_type": "package",
+      "sha256": "c3f00b6653202513b1f7813ad3c466510ceecc599a37d665a31dcfb5ac7049b9",
+      "unvendored_tests": false,
+      "version": "4.11.0"
+    },
+    "pydantic-core": {
+      "depends": [],
+      "file_name": "pydantic_core-2.27.2-cp312-cp312-pyodide_2024_0_wasm32.whl",
+      "imports": [
+        "pydantic_core"
+      ],
+      "install_dir": "site",
+      "name": "pydantic_core",
+      "package_type": "package",
+      "sha256": "eefd735db79e36e3425e4a821fc9df6cb172d2845f0d4a2a1038eb5f4d5c1d0c",
+      "unvendored_tests": false,
+      "version": "2.27.2"
+    },
+    "annotated-types": {
+      "depends": [],
+      "file_name": "annotated_types-0.6.0-py3-none-any.whl",
+      "imports": [
+        "annotated_types"
+      ],
+      "install_dir": "site",
+      "name": "annotated-types",
+      "package_type": "package",
+      "sha256": "9733de5d59580defb40ad7bd8a5d53a0fac03de7a13028d95cacc4e81945c97c",
+      "unvendored_tests": true,
+      "version": "0.6.0"
+    }
+  },
+  "files": [
+    {
+      "name": "annotated_types-0.6.0-py3-none-any.whl",
+      "url": "https://cdn.jsdelivr.net/pyodide/v0.27.7/full/annotated_types-0.6.0-py3-none-any.whl",
+      "sha256": "9733de5d59580defb40ad7bd8a5d53a0fac03de7a13028d95cacc4e81945c97c",
+      "bytes": 10719
+    },
+    {
+      "name": "numpy-2.0.2-cp312-cp312-pyodide_2024_0_wasm32.whl",
+      "url": "https://cdn.jsdelivr.net/pyodide/v0.27.7/full/numpy-2.0.2-cp312-cp312-pyodide_2024_0_wasm32.whl",
+      "sha256": "ebb61241d962b98b21597d7ce43b67668a6d5bab3acec4fbe958657320d7cd08",
+      "bytes": 3061133
+    },
+    {
+      "name": "pydantic-2.10.5-py3-none-any.whl",
+      "url": "https://cdn.jsdelivr.net/pyodide/v0.27.7/full/pydantic-2.10.5-py3-none-any.whl",
+      "sha256": "dd344e353e3c3a2d972c1198744a4f4ba1e2ce586e903187cca9fdaafb46c63d",
+      "bytes": 431426
+    },
+    {
+      "name": "pydantic_core-2.27.2-cp312-cp312-pyodide_2024_0_wasm32.whl",
+      "url": "https://cdn.jsdelivr.net/pyodide/v0.27.7/full/pydantic_core-2.27.2-cp312-cp312-pyodide_2024_0_wasm32.whl",
+      "sha256": "eefd735db79e36e3425e4a821fc9df6cb172d2845f0d4a2a1038eb5f4d5c1d0c",
+      "bytes": 1390305
+    },
+    {
+      "name": "pyodide-lock.json",
+      "url": "https://cdn.jsdelivr.net/pyodide/v0.27.7/full/pyodide-lock.json",
+      "sha256": "9c45b916001a750f4102fc287494f3eab215909c7535c626a20db80fd6333e2c",
+      "bytes": 112205
+    },
+    {
+      "name": "pyodide.asm.js",
+      "url": "https://cdn.jsdelivr.net/pyodide/v0.27.7/full/pyodide.asm.js",
+      "sha256": "6b4c90de5b7172873f04f21884d0e9d2274e305fe32116558fe3e4fbe3618d51",
+      "bytes": 1255688
+    },
+    {
+      "name": "pyodide.asm.wasm",
+      "url": "https://cdn.jsdelivr.net/pyodide/v0.27.7/full/pyodide.asm.wasm",
+      "sha256": "a50dd1843f805a0b7c45b61037ee0d7b26dfe85efe0e18ef95a34ad24e401f5f",
+      "bytes": 10105545
+    },
+    {
+      "name": "pyodide.js",
+      "url": "https://cdn.jsdelivr.net/pyodide/v0.27.7/full/pyodide.js",
+      "sha256": "b4cb23a53aba19c221659b9fb40a2f18281d685691dc06647fb0afd0681baf98",
+      "bytes": 14913
+    },
+    {
+      "name": "pyodide.mjs",
+      "url": "https://cdn.jsdelivr.net/pyodide/v0.27.7/full/pyodide.mjs",
+      "sha256": "04c052c815abb0bf2981fa38c2dfa58e3120ee5288c956df2b2a15e301782c5f",
+      "bytes": 13931
+    },
+    {
+      "name": "python_stdlib.zip",
+      "url": "https://cdn.jsdelivr.net/pyodide/v0.27.7/full/python_stdlib.zip",
+      "sha256": "16611534726e5d8ac2bd8f926410b2dcb8d6f49aa24913463533b457a2115c16",
+      "bytes": 2360737
+    },
+    {
+      "name": "typing_extensions-4.11.0-py3-none-any.whl",
+      "url": "https://cdn.jsdelivr.net/pyodide/v0.27.7/full/typing_extensions-4.11.0-py3-none-any.whl",
+      "sha256": "c3f00b6653202513b1f7813ad3c466510ceecc599a37d665a31dcfb5ac7049b9",
+      "bytes": 34698
+    }
+  ]
+}

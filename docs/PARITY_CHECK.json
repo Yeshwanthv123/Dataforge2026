@@ -1,0 +1,10 @@
+{
+  "cases": 12,
+  "numeric_values_checked": 10392,
+  "max_absolute_difference": 0,
+  "tolerance": 0.00001,
+  "excluded_field": "elapsed_ms",
+  "model_sha256": "afe43ca70f944453d8a6056e33b8831e11d9118d5c7318f056371f3180a2d6b0",
+  "public_runtime": "Pyodide 0.27.7",
+  "status": "passed"
+}

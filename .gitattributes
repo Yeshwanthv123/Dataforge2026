@@ -1,0 +1,7 @@
+*.pdf binary
+*.pptx binary
+*.png binary
+*.npz binary
+*.wasm binary
+*.whl binary
+*.zip binary

@@ -1,0 +1,38 @@
+[
+  {
+    "path": "output/pitch-assets/cover-memory.png",
+    "source": "OpenAI image generation; conceptual synaptic-memory artwork, gold on dark background",
+    "license": "Project MIT to extent applicable rights; see AI_DISCLOSURE.md",
+    "sha256": "a63dd4fd4f8a6059237e98bc081899b7d89be4616ee8477a8f43c0fd3ee25ce4"
+  },
+  {
+    "path": "output/pitch-assets/architecture.png",
+    "source": "OpenAI image generation; Docker frontend/API/model/SQLite architecture illustration",
+    "license": "Project MIT to extent applicable rights; see AI_DISCLOSURE.md",
+    "sha256": "a39325a056bb32296af54a4cca2140b1d59f2467f8594ee51615c0d32f733dd8"
+  },
+  {
+    "path": "output/pitch-assets/prototype.png",
+    "source": "User-provided screenshot of TRACE running locally",
+    "license": "Project MIT to extent applicable rights; see AI_DISCLOSURE.md",
+    "sha256": "eb3aa62bc6051c92541add4784a0ae806a14c911fe7c9350f953a521565be4ae"
+  },
+  {
+    "path": "frontend/public/favicon.svg",
+    "source": "Original TRACE geometric brand SVG, AI-assisted",
+    "license": "Project MIT to extent applicable rights; see AI_DISCLOSURE.md",
+    "sha256": "e7aa2f90a5fdd1067ff5ca0edd16c438ad689b17d8987a3a6ce3ef7717605601"
+  },
+  {
+    "path": "backend/artifacts/decoder.npz",
+    "source": "Original model.py, seed 42, trained synthetic symbol decoder",
+    "license": "Project MIT to extent applicable rights; see AI_DISCLOSURE.md",
+    "sha256": "afe43ca70f944453d8a6056e33b8831e11d9118d5c7318f056371f3180a2d6b0"
+  },
+  {
+    "path": "backend/artifacts/synthetic_dataset.npz",
+    "source": "Original model.py, seed 42, independent train/test vectors",
+    "license": "Project MIT to extent applicable rights; see AI_DISCLOSURE.md",
+    "sha256": "176cea52a8320bc1b35aff74a46a29606858136dc13d0357d6d53e0961515eef"
+  }
+]

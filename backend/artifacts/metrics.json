@@ -1,0 +1,99 @@
+{
+  "name": "TRACE Symbol Decoder",
+  "version": "1.0.0",
+  "seed": 42,
+  "train_samples": 6000,
+  "test_samples": 1500,
+  "epochs": 200,
+  "parameters": 72,
+  "test_accuracy": 0.9993333333333333,
+  "noise_std": 0.18,
+  "history": [
+    {
+      "epoch": 0,
+      "loss": 2.07635
+    },
+    {
+      "epoch": 10,
+      "loss": 1.41911
+    },
+    {
+      "epoch": 20,
+      "loss": 0.98271
+    },
+    {
+      "epoch": 30,
+      "loss": 0.71371
+    },
+    {
+      "epoch": 40,
+      "loss": 0.54705
+    },
+    {
+      "epoch": 50,
+      "loss": 0.439
+    },
+    {
+      "epoch": 60,
+      "loss": 0.36514
+    },
+    {
+      "epoch": 70,
+      "loss": 0.31218
+    },
+    {
+      "epoch": 80,
+      "loss": 0.27265
+    },
+    {
+      "epoch": 90,
+      "loss": 0.24215
+    },
+    {
+      "epoch": 100,
+      "loss": 0.21797
+    },
+    {
+      "epoch": 110,
+      "loss": 0.19837
+    },
+    {
+      "epoch": 120,
+      "loss": 0.18217
+    },
+    {
+      "epoch": 130,
+      "loss": 0.16857
+    },
+    {
+      "epoch": 140,
+      "loss": 0.15699
+    },
+    {
+      "epoch": 150,
+      "loss": 0.14702
+    },
+    {
+      "epoch": 160,
+      "loss": 0.13834
+    },
+    {
+      "epoch": 170,
+      "loss": 0.13072
+    },
+    {
+      "epoch": 180,
+      "loss": 0.12398
+    },
+    {
+      "epoch": 190,
+      "loss": 0.11797
+    },
+    {
+      "epoch": 200,
+      "loss": 0.11258
+    }
+  ],
+  "sha256": "afe43ca70f944453d8a6056e33b8831e11d9118d5c7318f056371f3180a2d6b0",
+  "scope": "Synthetic noisy-symbol classification. This accuracy is not memory-retrieval accuracy or a BDH benchmark."
+}

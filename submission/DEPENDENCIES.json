@@ -812,5 +812,16 @@
     "notices": [
       "licenses/runtimes/nginx-1.28.0-LICENSE.txt"
     ]
+  },
+  {
+    "ecosystem": "document-build",
+    "name": "reportlab",
+    "version": "4.4.9",
+    "license": "BSD-3-Clause",
+    "source": "https://pypi.org/project/reportlab/4.4.9/",
+    "notices": [
+      "licenses/reportlab/LICENSE"
+    ],
+    "note": "Optional PDF generator; no ReportLab code or font binaries distributed."
   }
 ]

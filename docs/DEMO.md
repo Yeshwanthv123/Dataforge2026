@@ -38,11 +38,11 @@
 
 **What would you add next?** A larger independently evaluated associative-recall dataset, trainable cue projections, a side-by-side full BDH-GPU module, and learner-study evidence. These are future work, not current features.
 
-## Before submission
+## Presentation preparation
 
-- Replace team/author details in accompanying materials.
+- Team: Cyber Leek. Public source: https://github.com/Yeshwanthv123/Dataforge2026
 - Review and understand the AI-assisted code and claims.
-- Record the actual working app, including the stress case.
-- Publish the source repository and guest-accessible demo if submitting to the Pathway track.
+- If recording a video, show the actual working app, including the collision and correction.
+- Public artifact: https://yeshwanthv123.github.io/Dataforge2026/ (no sign-in).
 - Review the one-page concept summary PDF and technical blog PDF.
 - Keep secrets, local SQLite files, `.venv`, and `node_modules` out of the public repository.
